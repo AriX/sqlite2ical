@@ -1,0 +1,115 @@
+Tsqlite2ical
+v7
+r0
+t336879108.679714
+cCheck dependencies
+cCompileC build/sqlite2ical.build/Release/sqlite2ical.build/Objects-normal/i386/main.o /Users/Ari/dev/sqlite2ical/main.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Users/Ari/dev/sqlite2ical/build/Release/sqlite2ical normal i386
+cGenerateDSYMFile /Users/Ari/dev/sqlite2ical/build/Release/sqlite2ical.dSYM /Users/Ari/dev/sqlite2ical/build/Release/sqlite2ical
+
+N/Developer/3/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer/3/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC3E8CB0000000000000AF4
+t1287907531
+s2804
+
+N/Developer/3/SDKs/MacOSX10.6.sdk/usr/include/libical/ical.h
+c000000004E403B260000000000021346
+t1312832294
+s136006
+
+N/Developer/3/SDKs/MacOSX10.6.sdk/usr/include/sqlite3.h
+c000000004CC3EB2A000000000003D86F
+t1287908138
+s252015
+
+N/Developer/3/SDKs/MacOSX10.6.sdk/usr/lib/libsqlite3.dylib
+c000000004D5A2794000000000000CB64
+t1297754004
+s52068
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004DBF2B880000000000781330
+t1304374152
+s7869232
+
+N/Users/Ari/dev/sqlite2ical/build/Release/sqlite2ical
+t1315186307
+s349680
+
+N/Users/Ari/dev/sqlite2ical/build/Release/sqlite2ical.dSYM
+t1315186308
+s102
+
+N/Users/Ari/dev/sqlite2ical/build/sqlite2ical.build/Release/sqlite2ical.build/Objects-normal/i386/main.o
+t1315186307
+s8396
+
+N/Users/Ari/dev/sqlite2ical/build/sqlite2ical.build/Release/sqlite2ical.build/Objects-normal/i386/sqlite2ical.LinkFileList
+c000000004E6426830000000000000068
+t1315186307
+s104
+
+N/Users/Ari/dev/sqlite2ical/libical.a
+c000000004E4BD97700000000001DE340
+t1313593719
+s1958720
+
+N/Users/Ari/dev/sqlite2ical/libicalss.a
+c000000004E4BD98700000000000893E0
+t1313593735
+s562144
+
+N/Users/Ari/dev/sqlite2ical/libicalvcal.a
+c000000004E4BD997000000000004A258
+t1313593751
+s303704
+
+N/Users/Ari/dev/sqlite2ical/main.c
+c000000004E6426770000000000000B8E
+t1315186295
+s2958
+i<CoreFoundation/CoreFoundation.h>
+i<libical/ical.h>
+i<sqlite3.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies336879107#336879107#0(0"0(0#1#0"8613679744#0"0#
+
+CCompileC build/sqlite2ical.build/Release/sqlite2ical.build/Objects-normal/i386/main.o /Users/Ari/dev/sqlite2ical/main.c normal i386 c com.apple.compilers.gcc.4_2
+s336879107.374251
+e336879107.473243
+r1
+xCompileC
+xbuild/sqlite2ical.build/Release/sqlite2ical.build/Objects-normal/i386/main.o
+x/Users/Ari/dev/sqlite2ical/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/Ari/dev/sqlite2ical/main.c336879107#336879107#0(0"0(0#0#33"/Users/Ari/dev/sqlite2ical/main.c8615359008#1244"    cd /Users/Ari/dev/sqlite2ical    setenv LANG en_US.US-ASCII    /Developer/3/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/3/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Ari/dev/sqlite2ical/build/sqlite2ical.build/Release/sqlite2ical.build/sqlite2ical-generated-files.hmap -I/Users/Ari/dev/sqlite2ical/build/sqlite2ical.build/Release/sqlite2ical.build/sqlite2ical-own-target-headers.hmap -I/Users/Ari/dev/sqlite2ical/build/sqlite2ical.build/Release/sqlite2ical.build/sqlite2ical-all-target-headers.hmap -iquote /Users/Ari/dev/sqlite2ical/build/sqlite2ical.build/Release/sqlite2ical.build/sqlite2ical-project-headers.hmap -F/Users/Ari/dev/sqlite2ical/build/Release -I/Users/Ari/dev/sqlite2ical/build/Release/include -I/Users/Ari/dev/sqlite2ical/build/sqlite2ical.build/Release/sqlite2ical.build/DerivedSources/i386 -I/Users/Ari/dev/sqlite2ical/build/sqlite2ical.build/Release/sqlite2ical.build/DerivedSources -c /Users/Ari/dev/sqlite2ical/main.c -o /Users/Ari/dev/sqlite2ical/build/sqlite2ical.build/Release/sqlite2ical.build/Objects-normal/i386/main.o0#
+
+CGenerateDSYMFile /Users/Ari/dev/sqlite2ical/build/Release/sqlite2ical.dSYM /Users/Ari/dev/sqlite2ical/build/Release/sqlite2ical
+s336879107.590376
+e336879108.679657
+r1
+xGenerateDSYMFile
+x/Users/Ari/dev/sqlite2ical/build/Release/sqlite2ical.dSYM
+x/Users/Ari/dev/sqlite2ical/build/Release/sqlite2ical
+lSLF07#2@73"GenerateDSYMFile build/Release/sqlite2ical.dSYM build/Release/sqlite2ical336879107#336879108#0(0"0(0#0#52"/Users/Ari/dev/sqlite2ical/build/Release/sqlite2ical8616821440#182"    cd /Users/Ari/dev/sqlite2ical    /Developer/3/usr/bin/dsymutil /Users/Ari/dev/sqlite2ical/build/Release/sqlite2ical -o /Users/Ari/dev/sqlite2ical/build/Release/sqlite2ical.dSYM0#
+
+CLd /Users/Ari/dev/sqlite2ical/build/Release/sqlite2ical normal i386
+s336879107.473363
+e336879107.590278
+r1
+xLd
+x/Users/Ari/dev/sqlite2ical/build/Release/sqlite2ical
+xnormal
+xi386
+lSLF07#2@57"Link /Users/Ari/dev/sqlite2ical/build/Release/sqlite2ical336879107#336879107#0(0"0(0#0#0"8612743008#554"    cd /Users/Ari/dev/sqlite2ical    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/3/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/3/SDKs/MacOSX10.6.sdk -L/Users/Ari/dev/sqlite2ical/build/Release -L/Users/Ari/dev/sqlite2ical -F/Users/Ari/dev/sqlite2ical/build/Release -filelist /Users/Ari/dev/sqlite2ical/build/sqlite2ical.build/Release/sqlite2ical.build/Objects-normal/i386/sqlite2ical.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -lical -licalss -licalvcal -lsqlite3 -o /Users/Ari/dev/sqlite2ical/build/Release/sqlite2ical0#
+
