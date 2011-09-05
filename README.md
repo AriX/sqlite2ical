@@ -14,4 +14,5 @@ sqlite2ical will not currently convert recurring events. Feel free to fork the p
 sqlite2ical is intended for personal use. If you intend to use it for anything else (i.e. in your own piece of software, etc.), let me know.
 
 Copyright (c) 2011 Ari Weinstein/Squish Software
+
 arixmail2 (at) gmail [DAWT] com
