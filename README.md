@@ -1,11 +1,11 @@
 # sqlite2ical
-sqlite2ical converts iPhone sqlite format calendars to iCal/vCal/ICS format.
-Download the compiled sqlite2ical here: http://cl.ly/1v1Q413G0Z3p3k0M0p08
+sqlite2ical converts iPhone sqlite format calendars to iCal/vCal/ICS format. This version is an Xcode project, but it could easily be compiled on *nix. Requires libical.
+Download a Mac binary of sqlite2ical here: http://cl.ly/1v1Q413G0Z3p3k0M0p08
 
-As a bonus, this copy of sqlite2ical comes with a precompiled copy of libical with i386 and ARM architectures (works perfectly for iPhone development).
+As a bonus, this copy of sqlite2ical comes with a (Mach-O) precompiled copy of libical with i386 and ARM architectures (works perfectly for iPhone development).
 
 ## Usage
-sqlite2ical <input.sqlitedb> <output.ics>
+```sqlite2ical <input.sqlitedb> <output.ics>```
 
 ## Note
 sqlite2ical will not currently convert recurring events. Feel free to fork the project and add it in if you'd like!
