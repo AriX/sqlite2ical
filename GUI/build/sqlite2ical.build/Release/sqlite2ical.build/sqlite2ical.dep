@@ -1,0 +1,10 @@
+011ef04a0a702596f9f3134a602d00f3 c8ac262b11697055014fb331da71d317 ffffffffffffffffffffffffffffffff 102 /Users/Ari/dev/sqlite2ical/GUI/build/Release/sqlite2ical.app
+000000004e6f9d35000000000002ef92 81a15c7baea9150cee29af6fa06181ea ffffffffffffffffffffffffffffffff 36821 /Users/Ari/dev/sqlite2ical/GUI/build/Release/sqlite2ical.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004e6f98a3000000000000002d f1d50a9bc9fefe0a3d97df8849561c4a ffffffffffffffffffffffffffffffff 92 /Users/Ari/dev/sqlite2ical/GUI/build/Release/sqlite2ical.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 fa940cce089181fc92bd40e3b36375ff ffffffffffffffffffffffffffffffff 8 /Users/Ari/dev/sqlite2ical/GUI/build/Release/sqlite2ical.app/Contents/PkgInfo
+00000000000000000000000000000000 fa940cce089181fc92bd40e3b36375ff ffffffffffffffffffffffffffffffff 1296 /Users/Ari/dev/sqlite2ical/GUI/build/Release/sqlite2ical.app/Contents/Info.plist
+00000000000000000000000000000000 903f616878a06d68cd00a9b131fbc090 ffffffffffffffffffffffffffffffff 102 /Users/Ari/dev/sqlite2ical/GUI/build/Release/sqlite2ical.app.dSYM
+c27765350708690636f4c2130310f23c b31dc39f6a2fa2001cb9a1be8a0880d0 ffffffffffffffffffffffffffffffff 359184 /Users/Ari/dev/sqlite2ical/GUI/build/Release/sqlite2ical.app/Contents/MacOS/sqlite2ical
+720acf0adc3048a5a4bb38167704a5a5 29b1ef50b52282365d05c99b7ab99f06 ffffffffffffffffffffffffffffffff 26304 /Users/Ari/dev/sqlite2ical/GUI/build/sqlite2ical.build/Release/sqlite2ical.build/Objects-normal/i386/sqlite2icalAppDelegate.o
+720acf0a90dc0697a4bb381677056377 ebc68a65fa9251d16bf10b8879b9177a ffffffffffffffffffffffffffffffff 4840 /Users/Ari/dev/sqlite2ical/GUI/build/sqlite2ical.build/Release/sqlite2ical.build/Objects-normal/i386/main.o
+000000000eab32cb000000000000017c 720acf0a90dc0697a4bb381677056318 ffffffffffffffffffffffffffffffff 55592752 /var/folders/3T/3T4wSCAJE3Go3ruCwjtV5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqlite2ical_Prefix-gycflwggzbhqmcbunjfnnbznocgr/sqlite2ical_Prefix.pch.gch

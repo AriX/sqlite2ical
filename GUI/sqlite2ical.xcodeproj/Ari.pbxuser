@@ -1,0 +1,401 @@
+// !$*UTF8*$!
+{
+	029675B5141FD02300A2E330 /* sqlite2ical */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = sqlite2ical;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	029675C6141FD02700A2E330 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	029675C7141FD02700A2E330 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	029675FE141FD31A00A2E330 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* sqlite2icalAppDelegate.h */;
+	};
+	02967607141FD36400A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* sqlite2icalAppDelegate.h */;
+		name = "sqlite2icalAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 339;
+		rType = 0;
+		vrLen = 349;
+		vrLoc = 0;
+	};
+	02967608141FD36400A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 52";
+		rLen = 0;
+		rLoc = 2065;
+		rType = 0;
+		vrLen = 918;
+		vrLoc = 1762;
+	};
+	02967609141FD36400A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 52";
+		rLen = 0;
+		rLoc = 2065;
+		rType = 0;
+		vrLen = 963;
+		vrLoc = 1762;
+	};
+	0296760C141FD36400A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* sqlite2icalAppDelegate.h */;
+		name = "sqlite2icalAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 394;
+		vrLoc = 0;
+	};
+	0296760F141FD36400A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 16";
+		rLen = 0;
+		rLoc = 312;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 0;
+	};
+	02967610141FD36400A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 87";
+		rLen = 0;
+		rLoc = 3198;
+		rType = 0;
+		vrLen = 2787;
+		vrLoc = 626;
+	};
+	0296761C141FD3C500A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 52";
+		rLen = 0;
+		rLoc = 2065;
+		rType = 0;
+		vrLen = 1023;
+		vrLoc = 1762;
+	};
+	0296761D141FD3C500A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 87";
+		rLen = 0;
+		rLoc = 3198;
+		rType = 0;
+		vrLen = 2787;
+		vrLoc = 626;
+	};
+	0296761E141FD3C500A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 75";
+		rLen = 0;
+		rLoc = 2910;
+		rType = 0;
+		vrLen = 2757;
+		vrLoc = 497;
+	};
+	0296761F141FD3C500A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* sqlite2icalAppDelegate.h */;
+		name = "sqlite2icalAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 394;
+		vrLoc = 0;
+	};
+	02967628141FD44700A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 52";
+		rLen = 0;
+		rLoc = 2065;
+		rType = 0;
+		vrLen = 963;
+		vrLoc = 1762;
+	};
+	02967629141FD44700A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 77";
+		rLen = 0;
+		rLoc = 2988;
+		rType = 0;
+		vrLen = 2738;
+		vrLoc = 523;
+	};
+	0296762A141FD44700A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* sqlite2icalAppDelegate.h */;
+		name = "sqlite2icalAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 394;
+		vrLoc = 0;
+	};
+	02967632141FD48D00A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 52";
+		rLen = 0;
+		rLoc = 2065;
+		rType = 0;
+		vrLen = 963;
+		vrLoc = 1762;
+	};
+	02967633141FD48D00A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 81";
+		rLen = 0;
+		rLoc = 3196;
+		rType = 0;
+		vrLen = 2776;
+		vrLoc = 525;
+	};
+	02967634141FD48D00A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* sqlite2icalAppDelegate.h */;
+		name = "sqlite2icalAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 394;
+		vrLoc = 0;
+	};
+	02967636141FD4AE00A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 49";
+		rLen = 0;
+		rLoc = 2065;
+		rType = 0;
+		vrLen = 1479;
+		vrLoc = 1068;
+	};
+	02967637141FD4AE00A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 37";
+		rLen = 0;
+		rLoc = 1007;
+		rType = 0;
+		vrLen = 2758;
+		vrLoc = 449;
+	};
+	02967638141FD4AE00A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* sqlite2icalAppDelegate.h */;
+		name = "sqlite2icalAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 394;
+		vrLoc = 0;
+	};
+	0296763D141FD51200A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 49";
+		rLen = 0;
+		rLoc = 2065;
+		rType = 0;
+		vrLen = 1516;
+		vrLoc = 1068;
+	};
+	0296763E141FD51200A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 37";
+		rLen = 0;
+		rLoc = 1007;
+		rType = 0;
+		vrLen = 2859;
+		vrLoc = 348;
+	};
+	0296763F141FD51200A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* sqlite2icalAppDelegate.h */;
+		name = "sqlite2icalAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 394;
+		vrLoc = 0;
+	};
+	02967641141FD51B00A2E330 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'icalcomponent' undeclared (first use in this function)";
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 19;
+		rType = 1;
+	};
+	02967642141FD51B00A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 376;
+		rType = 0;
+		vrLen = 597;
+		vrLoc = 219;
+	};
+	02967643141FD52300A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */;
+		name = "sqlite2icalAppDelegate.m: 49";
+		rLen = 0;
+		rLoc = 2065;
+		rType = 0;
+		vrLen = 1516;
+		vrLoc = 1068;
+	};
+	02967644141FD52300A2E330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* sqlite2icalAppDelegate.h */;
+		name = "sqlite2icalAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 394;
+		vrLoc = 0;
+	};
+	256AC3D80F4B6AC300CF3369 /* sqlite2icalAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1061, 809}}";
+			sepNavSelRange = "{191, 0}";
+			sepNavVisRange = "{0, 394}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* sqlite2icalAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1363, 923}}";
+			sepNavSelRange = "{2065, 0}";
+			sepNavVisRange = "{1068, 1516}";
+			sepNavWindowFrame = "{{24, 91}, {1120, 937}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 029675B5141FD02300A2E330 /* sqlite2ical */;
+		activeTarget = 8D1107260486CEB800E47090 /* sqlite2ical */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* sqlite2ical */,
+		);
+		codeSenseManager = 029675C7141FD02700A2E330 /* Code sense */;
+		executables = (
+			029675B5141FD02300A2E330 /* sqlite2ical */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 337629228;
+			PBXWorkspaceStateSaveDate = 337629228;
+		};
+		perUserProjectItems = {
+			029675FE141FD31A00A2E330 /* PBXBookmark */ = 029675FE141FD31A00A2E330 /* PBXBookmark */;
+			02967607141FD36400A2E330 /* PBXTextBookmark */ = 02967607141FD36400A2E330 /* PBXTextBookmark */;
+			02967608141FD36400A2E330 /* PBXTextBookmark */ = 02967608141FD36400A2E330 /* PBXTextBookmark */;
+			02967609141FD36400A2E330 /* PBXTextBookmark */ = 02967609141FD36400A2E330 /* PBXTextBookmark */;
+			0296760C141FD36400A2E330 /* PBXTextBookmark */ = 0296760C141FD36400A2E330 /* PBXTextBookmark */;
+			0296760F141FD36400A2E330 /* PBXTextBookmark */ = 0296760F141FD36400A2E330 /* PBXTextBookmark */;
+			02967610141FD36400A2E330 /* PBXTextBookmark */ = 02967610141FD36400A2E330 /* PBXTextBookmark */;
+			0296761C141FD3C500A2E330 /* PBXTextBookmark */ = 0296761C141FD3C500A2E330 /* PBXTextBookmark */;
+			0296761D141FD3C500A2E330 /* PBXTextBookmark */ = 0296761D141FD3C500A2E330 /* PBXTextBookmark */;
+			0296761E141FD3C500A2E330 /* PBXTextBookmark */ = 0296761E141FD3C500A2E330 /* PBXTextBookmark */;
+			0296761F141FD3C500A2E330 /* PBXTextBookmark */ = 0296761F141FD3C500A2E330 /* PBXTextBookmark */;
+			02967628141FD44700A2E330 /* PBXTextBookmark */ = 02967628141FD44700A2E330 /* PBXTextBookmark */;
+			02967629141FD44700A2E330 /* PBXTextBookmark */ = 02967629141FD44700A2E330 /* PBXTextBookmark */;
+			0296762A141FD44700A2E330 /* PBXTextBookmark */ = 0296762A141FD44700A2E330 /* PBXTextBookmark */;
+			02967632141FD48D00A2E330 /* PBXTextBookmark */ = 02967632141FD48D00A2E330 /* PBXTextBookmark */;
+			02967633141FD48D00A2E330 /* PBXTextBookmark */ = 02967633141FD48D00A2E330 /* PBXTextBookmark */;
+			02967634141FD48D00A2E330 /* PBXTextBookmark */ = 02967634141FD48D00A2E330 /* PBXTextBookmark */;
+			02967636141FD4AE00A2E330 /* PBXTextBookmark */ = 02967636141FD4AE00A2E330 /* PBXTextBookmark */;
+			02967637141FD4AE00A2E330 /* PBXTextBookmark */ = 02967637141FD4AE00A2E330 /* PBXTextBookmark */;
+			02967638141FD4AE00A2E330 /* PBXTextBookmark */ = 02967638141FD4AE00A2E330 /* PBXTextBookmark */;
+			0296763D141FD51200A2E330 /* PBXTextBookmark */ = 0296763D141FD51200A2E330 /* PBXTextBookmark */;
+			0296763E141FD51200A2E330 /* PBXTextBookmark */ = 0296763E141FD51200A2E330 /* PBXTextBookmark */;
+			0296763F141FD51200A2E330 /* PBXTextBookmark */ = 0296763F141FD51200A2E330 /* PBXTextBookmark */;
+			02967641141FD51B00A2E330 /* XCBuildMessageTextBookmark */ = 02967641141FD51B00A2E330 /* XCBuildMessageTextBookmark */;
+			02967642141FD51B00A2E330 /* PBXTextBookmark */ = 02967642141FD51B00A2E330 /* PBXTextBookmark */;
+			02967643141FD52300A2E330 /* PBXTextBookmark */ = 02967643141FD52300A2E330 /* PBXTextBookmark */;
+			02967644141FD52300A2E330 /* PBXTextBookmark */ = 02967644141FD52300A2E330 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 029675C6141FD02700A2E330 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* sqlite2ical */ = {
+		activeExec = 0;
+		executables = (
+			029675B5141FD02300A2E330 /* sqlite2ical */,
+		);
+	};
+}
